@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Systems-Programming-String-Formatting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Systems-Programming-String-Formatting?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Systems-Programming-String-Formatting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Systems-Programming-String-Formatting?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Systems-Programming-String-Formatting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Systems-Programming-String-Formatting?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Systems-Programming-String-Formatting/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Systems-Programming-String-Formatting/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
@@ -65,9 +65,9 @@ The following hosted platforms and developer cloud services provide remote compi
 
 ## 🛠️ Open-Source GitHub Projects
 
-Explore the most powerful open-source repositories for remote development, systems programming, and zero-overhead string formatting. Projects are ranked in descending order by **GitHub Star Count ⭐**.
+Explore the most powerful open-source repositories for remote development, systems programming, and zero-overhead string formatting. Projects are ranked in descending order by **GitHub Stars_Count ⭐**.
 
-| Repository & Stars Badge | Language / Focus | Description | Key Systems Architecture Features |
+| Repository & Stars_Badge | Language / Focus | Description | Key Systems Architecture Features |
 | :--- | :--- | :--- | :--- |
 | **[rust-lang/rust](https://github.com/rust-lang/rust)**<br>[![Stars](https://img.shields.io/github/stars/rust-lang/rust?style=social&color=white)](https://github.com/rust-lang/rust/stargazers) | **Rust** (Core Language) | Empowering everyone to build reliable and efficient software with memory safety without garbage collection. | Core language repository powering `core::fmt`, borrow checker, LLVM backend, and systems standard library. |
 | **[coder/code-server](https://github.com/coder/code-server)**<br>[![Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers) | **TypeScript / Go** | Run VS Code on any remote Linux server and access it directly in any browser window. | Full remote execution, persistent Docker/SSH sessions, and zero local overhead for heavy C++/Rust toolchains. |
@@ -125,7 +125,7 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Create a branch** for your updates (`git checkout -b feature/add-new-tool`).
-3. ✏️ **Add/edit entries** in `README.md` following the tabular format (include link, company scale/valuation or star count badge, starting price, and specific limits).
+3. ✏️ **Add/edit entries** in `README.md` following the tabular format (include link, company scale/valuation or Stars_Count badge, starting price, and specific limits).
 4. 🧪 **Verify all links and data** before submitting.
 5. 🚀 **Submit a Pull Request** with a concise explanation of why the tool benefits the systems programming and string formatting community.
 
